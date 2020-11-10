@@ -23,11 +23,8 @@ private:
 public:
     void Start();
     long TimeInMilliseconds() const;
-<<<<<<< HEAD
-
-=======
+    int develop2();
     int develop();
->>>>>>> d874e54... no message
 };
 
 }
