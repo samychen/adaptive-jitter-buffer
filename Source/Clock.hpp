@@ -24,6 +24,7 @@ public:
     void Start();
     long TimeInMilliseconds() const;
     int login();
+    int test();
 };
 
 }
