@@ -25,10 +25,14 @@ public:
     long TimeInMilliseconds() const;
     int master();
     int develop_cs();
+<<<<<<< HEAD
     int develop2();
     int master2();
     int done();
 
+=======
+    int master2();
+>>>>>>> 378ace50edbc33c6d757ca44f8e3c6311d54df74
 };
 
 }
