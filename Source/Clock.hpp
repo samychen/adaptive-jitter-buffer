@@ -24,6 +24,7 @@ public:
     void Start();
     long TimeInMilliseconds() const;
     int master();
+    int develop_cs();
 };
 
 }
