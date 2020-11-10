@@ -23,7 +23,6 @@ private:
 public:
     void Start();
     long TimeInMilliseconds() const;
-    int test2();
 };
 
 }
