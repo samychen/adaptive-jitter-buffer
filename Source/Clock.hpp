@@ -23,7 +23,10 @@ private:
 public:
     void Start();
     long TimeInMilliseconds() const;
+<<<<<<< HEAD
     int develop2();
+=======
+>>>>>>> d874e54f2e3993b5ec134541755828019b12e558
     int develop();
 };
 
