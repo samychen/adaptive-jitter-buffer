@@ -23,6 +23,8 @@ private:
 public:
     void Start();
     long TimeInMilliseconds() const;
+
+    int develop();
 };
 
 }
