@@ -26,6 +26,7 @@ public:
 
     int develop();
     int master();
+    int master2();
 };
 
 }
