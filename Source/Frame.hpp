@@ -31,6 +31,7 @@ private:
     int _bufferSize;
     FrameStateEnum _state;
     PacketList _packetList;
+    int a;
 
 public:
     Frame(int FrameNumber, int numFragmentsInThisFrame);
