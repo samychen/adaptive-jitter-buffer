@@ -18,6 +18,7 @@ class Decoder : public IDecoder
 public:
     int DecodeFrame(const char* buffer, int length, char* outputBuffer);
     Decoder() {}
+    int test();
 };
 
 }
