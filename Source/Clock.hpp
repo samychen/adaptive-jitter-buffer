@@ -23,8 +23,12 @@ private:
 public:
     void Start();
     long TimeInMilliseconds() const;
+<<<<<<< HEAD
     int develop2();
     int develop();
+=======
+    int master();
+>>>>>>> 4387e7d... mas
 };
 
 }
