@@ -25,6 +25,7 @@ public:
     long TimeInMilliseconds() const;
 
     int develop();
+    int master();
 };
 
 }
