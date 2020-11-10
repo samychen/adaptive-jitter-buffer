@@ -23,12 +23,16 @@ private:
 public:
     void Start();
     long TimeInMilliseconds() const;
+<<<<<<< .merge_file_KYvPfk
 <<<<<<< HEAD
     int develop2();
     int develop();
 =======
     int master();
 >>>>>>> 4387e7d... mas
+=======
+    int master();
+>>>>>>> .merge_file_gVwIoJ
 };
 
 }
