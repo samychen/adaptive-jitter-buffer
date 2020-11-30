@@ -28,7 +28,11 @@ public:
     int master();
     int master2();
     int develop2();
+
     void test();
+
+    int test1();
+
 };
 
 }
